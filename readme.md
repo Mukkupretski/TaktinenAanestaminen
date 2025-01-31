@@ -15,3 +15,7 @@ Tutkin kouluprojektissani taktista äänestämistä D'Hondtin menetelmää hyöd
 ## Huomautus
 
 En alun perin tullut ottaneeksi huomioon, että koodi tulisi sisällyttää tutkimuksen liitteisiin. En siis tehnyt sieltä kovin luettavaa, ja sieltä saattaa löytyä kommentteja, jotka eivät aukea muille kuin minulle itselleni. Simulaatiot kuitenkin pohjimmiltaan vastaavat sitä, mitä tutkimusraportissa niistä kerrotaan.
+
+## Toinen huomautus
+
+Vasemman ja oikean optimointi toisia vastaan ei noudata raportissa esiteltyä, yksinkertaisempaa versiota. Se silti päätyy samaan lopputulokseen.
